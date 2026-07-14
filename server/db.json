@@ -1,0 +1,755 @@
+{
+  "users": [
+    {
+      "id": "ce2871b8-0e80-4401-bf80-d943acae7fe4",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "omkava9@gmail.com",
+      "password": "12979Jovjk4444"
+    },
+    {
+      "id": "1ee89f3f-5c16-4b73-b2a5-436cfafdf6dd",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "hello@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "ca208704-9f99-495d-8a9b-3ea1041a704e",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "asdfasf@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "38be5332-9fec-41d8-8475-5362ab2434af",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "omk2804@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "3c26c3d7-e277-47ee-bf34-2a3987fbf469",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "helkadjflk@mail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "5472e073-ba53-4288-9528-97a171c0a94f",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "123123@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "2d115727-493e-4182-9a7d-2bc8e737be24",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "12312@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "8c3d3e44-a6c2-410f-841f-d8406965b468",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "123122@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "3cd83e51-d716-4c57-8920-2402637c8515",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "hell123@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "203659f5-e008-42d3-b50b-e628ab126ba6",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "okmlk@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "b2d2aef9-4b44-4ee4-9711-f28b5668cad7",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "hello999@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "db9e6ac6-e5f0-41d6-9fe0-34cb21927c1d",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "2345@gmail.com",
+      "password": "234567"
+    },
+    {
+      "id": "c81e0536-29de-401b-8726-69ec5c7bdba8",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "12312423@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "848f1ed3-125c-45a3-bc77-11cebd749c99",
+      "name": "12312412",
+      "email": "hello12312@gmail.com",
+      "password": "omkava9@gmail.com"
+    },
+    {
+      "id": "1b5969b7-ddd9-45c5-9a20-8d6246410565",
+      "name": "123423r2",
+      "email": "kajdfljk@gmail.com",
+      "password": "2345678"
+    },
+    {
+      "id": "53f25ef1-f3bf-4de8-a6a1-2d8485f19dee",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "test12345@gmail.com",
+      "password": "test@123"
+    },
+    {
+      "id": "776c463c-8f16-4177-a778-d02fba48d8a8",
+      "name": "Test",
+      "email": "test@1123456gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "b84625c2-c5d6-4cde-8320-ac18bc2fa2b8",
+      "name": "Test",
+      "email": "admin@123",
+      "password": "admin@123"
+    },
+    {
+      "id": "7c6bf8c9-8c25-4e85-bfcf-463562caa1ad",
+      "name": "Test",
+      "email": "adfs@131",
+      "password": "TEST@123"
+    },
+    {
+      "id": "8014518f-f07c-4770-945f-f6c027075af4",
+      "name": "TEST",
+      "email": "TEST@12321421423",
+      "password": "FSDHFPOHIOA"
+    },
+    {
+      "id": "106cb285-4a08-4074-ab46-41b85e4ffa74",
+      "name": "test",
+      "email": "test@132341",
+      "password": "testfdqd"
+    },
+    {
+      "id": "b72da7c4-6d6d-4119-9797-291d5c4e8f11",
+      "name": "Test",
+      "email": "Testqw121312@124213",
+      "password": "3122142E"
+    },
+    {
+      "id": "13b05c04-bfb5-4d79-874a-e490ed47af3b",
+      "name": "test",
+      "email": "asfsdgr@asfgdsfd",
+      "password": "dgstytq32qerq"
+    },
+    {
+      "id": "9deb6010-271f-4c5a-be9a-3534fb3b182a",
+      "name": "Test",
+      "email": "DSFHSDG@123123",
+      "password": "2312"
+    },
+    {
+      "id": "15673ea5-ae02-40d9-87fc-0d13f67231dd",
+      "name": "tEST",
+      "email": "DFSE@WESGFS",
+      "password": "DSFWED"
+    },
+    {
+      "id": "ca9d5ee1-b31d-4983-8726-151f1f6f4d57",
+      "name": "tEST",
+      "email": "Test@24543",
+      "password": "efsdfsd"
+    },
+    {
+      "id": "bf66b9f8-2ee7-4b7e-9bde-2eb0ec09db69",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "om@gmail.com",
+      "password": "123123"
+    },
+    {
+      "id": "744dade9-8999-4784-b4e1-18236aee99d0",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "hello1234234@gmail.com",
+      "password": "2134"
+    },
+    {
+      "id": "ad4bad15-bd15-4889-872c-bc9fbe143852",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "12323rafasdf@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "549f9ad8-1157-44a7-bbcd-a78c32c0a578",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "23456@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "7f8ef62a-1dcc-4f40-906e-71479e6470ee",
+      "name": "akadflkasdfasdf",
+      "email": "12345678@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "f3542a0a-f261-42aa-a0e7-0385a04d83cb",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "emilii@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "468aa55c-4939-4a79-9bc3-d43f6467a377",
+      "name": "Test",
+      "email": "Test@242",
+      "password": "2312"
+    },
+    {
+      "id": "1df468ba-77ab-4516-a1c5-a215cb4321a8",
+      "name": "test",
+      "email": "test@13214",
+      "password": "dsfsda"
+    },
+    {
+      "id": "ecf018c6-796e-4364-acf3-d692ccae55d1",
+      "name": "sdfsdf",
+      "email": "dsfsf@dsf",
+      "password": "sdfwef"
+    },
+    {
+      "id": "257468fc-e655-4728-bdb1-84795d28956b",
+      "name": "Test",
+      "email": "Test@121423rewt34652",
+      "password": "Test"
+    },
+    {
+      "id": "f5d26099-6f4e-4c1a-9f6a-9abd15e987fc",
+      "name": "dsfdas",
+      "email": "asfd@wewresd",
+      "password": "sadfesdf"
+    },
+    {
+      "id": "b328c537-af6b-417a-8526-9eaa6553bc2e",
+      "name": "test",
+      "email": "test#@13214234321",
+      "password": "dsfsdasd"
+    },
+    {
+      "id": "9871b934-0cad-44a1-8643-2d182f24903d",
+      "name": "xcgdsf",
+      "email": "fads@q242343",
+      "password": "safgdgfsdfas"
+    },
+    {
+      "id": "781cafbc-ba95-45d1-8537-ce8f79d3d7ff",
+      "name": "Test",
+      "email": "dsfsadfasd@dsgsdf",
+      "password": "fgfsdfc"
+    },
+    {
+      "id": "432c053c-4404-4819-9d83-b3a9b6001095",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "safsaeawre@2423fcas",
+      "password": "sdfsad"
+    },
+    {
+      "id": "b8725ed0-7bc8-4b80-b8ee-cf8cfffb7085",
+      "name": "zxcc",
+      "email": "xfd@q423",
+      "password": "dsfsdcsd"
+    },
+    {
+      "id": "c39a33c8-388f-498f-a0ae-bde01ea7335b",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "34567898765@gmail.com",
+      "password": "456787654"
+    },
+    {
+      "id": "dd1312ed-117f-4890-9451-b5a019d88b84",
+      "name": "test",
+      "email": "dfsdfsaf@24124sas",
+      "password": "sdfsdf"
+    },
+    {
+      "id": "62df64d4-6014-483d-8d99-3630f1fc21bf",
+      "name": "xzcxzc",
+      "email": "czxc@fdsa",
+      "password": "fsafsadf"
+    },
+    {
+      "id": "fb14e083-e765-4be0-9f82-73c01a51b2ad",
+      "name": "Test",
+      "email": "test@12324w",
+      "password": "fasdf"
+    },
+    {
+      "id": "d541dd3c-d88f-467b-8e15-2633d0f90c5f",
+      "name": "KAVA OM VIRALBHAI",
+      "email": "omk2920312@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "142d9d08-91df-4676-aab8-da007990c63a",
+      "name": "lkasjdflkjasdfj",
+      "email": "omk23423423@gmail.com",
+      "password": "2345654"
+    }
+  ],
+  "orders": [
+    {
+      "id": "eac4d697-7d90-4083-847e-5fb4fdb07b85",
+      "userId": "ce2871b8-0e80-4401-bf80-d943acae7fe4",
+      "items": [
+        {
+          "id": 3,
+          "title": "Mens Cotton Jacket",
+          "price": 55.99,
+          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          },
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "title": "Mens Casual Slim Fit",
+          "price": 15.99,
+          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+          "rating": {
+            "rate": 2.1,
+            "count": 430
+          },
+          "quantity": 1
+        }
+      ],
+      "total": 71.98,
+      "shipping": "pending",
+      "status": "Processing",
+      "date": "2026-07-14T03:34:50.276Z"
+    },
+    {
+      "id": "de3ee98c-9751-405c-96bc-572fdb8c5203",
+      "userId": "ce2871b8-0e80-4401-bf80-d943acae7fe4",
+      "items": [
+        {
+          "id": 3,
+          "title": "Mens Cotton Jacket",
+          "price": 55.99,
+          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          },
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "title": "Mens Casual Slim Fit",
+          "price": 15.99,
+          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+          "rating": {
+            "rate": 2.1,
+            "count": 430
+          },
+          "quantity": 1
+        }
+      ],
+      "total": 71.98,
+      "shipping": "pending",
+      "status": "Processing",
+      "date": "2026-07-14T03:37:04.015Z"
+    },
+    {
+      "id": "b47bb1e9-9dec-4017-8668-7e279ecef613",
+      "userId": "ce2871b8-0e80-4401-bf80-d943acae7fe4",
+      "items": [
+        {
+          "id": 3,
+          "title": "Mens Cotton Jacket",
+          "price": 55.99,
+          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          },
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "title": "Mens Casual Slim Fit",
+          "price": 15.99,
+          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+          "rating": {
+            "rate": 2.1,
+            "count": 430
+          },
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "title": "Mens Casual Premium Slim Fit T-Shirts ",
+          "price": 22.3,
+          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+          "rating": {
+            "rate": 4.1,
+            "count": 259
+          },
+          "quantity": 1
+        }
+      ],
+      "total": 94.28,
+      "shipping": "pending",
+      "status": "Processing",
+      "date": "2026-07-14T04:10:16.554Z"
+    },
+    {
+      "id": "cca9dee3-5f66-473d-a69d-670ed3284872",
+      "userId": "ce2871b8-0e80-4401-bf80-d943acae7fe4",
+      "items": [
+        {
+          "id": 3,
+          "title": "Mens Cotton Jacket",
+          "price": 55.99,
+          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          },
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "title": "Mens Casual Slim Fit",
+          "price": 15.99,
+          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+          "rating": {
+            "rate": 2.1,
+            "count": 430
+          },
+          "quantity": 1
+        }
+      ],
+      "total": 71.98,
+      "shipping": "pending",
+      "status": "Processing",
+      "date": "2026-07-14T04:14:39.478Z"
+    },
+    {
+      "id": "98cfa717-5628-4128-82ee-08186aae9fc2",
+      "userId": "ce2871b8-0e80-4401-bf80-d943acae7fe4",
+      "items": [
+        {
+          "id": 3,
+          "title": "Mens Cotton Jacket",
+          "price": 55.99,
+          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          },
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "title": "Mens Casual Slim Fit",
+          "price": 15.99,
+          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+          "rating": {
+            "rate": 2.1,
+            "count": 430
+          },
+          "quantity": 1
+        }
+      ],
+      "total": 71.98,
+      "shipping": "pending",
+      "status": "Processing",
+      "date": "2026-07-14T04:19:14.458Z"
+    },
+    {
+      "id": "89c0e04f-b0eb-4f43-a40a-1b7cfc2a3bcd",
+      "userId": "ce2871b8-0e80-4401-bf80-d943acae7fe4",
+      "items": [
+        {
+          "id": 3,
+          "title": "Mens Cotton Jacket",
+          "price": 55.99,
+          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          },
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "title": "Mens Casual Slim Fit",
+          "price": 15.99,
+          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+          "rating": {
+            "rate": 2.1,
+            "count": 430
+          },
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "title": "Mens Casual Premium Slim Fit T-Shirts ",
+          "price": 22.3,
+          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+          "rating": {
+            "rate": 4.1,
+            "count": 259
+          },
+          "quantity": 1
+        }
+      ],
+      "total": 94.28,
+      "shipping": "pending",
+      "status": "Processing",
+      "date": "2026-07-14T04:24:14.535Z"
+    },
+    {
+      "id": "58f99436-d22e-4644-b218-f473a0d9758d",
+      "userId": "ce2871b8-0e80-4401-bf80-d943acae7fe4",
+      "items": [
+        {
+          "id": 3,
+          "title": "Mens Cotton Jacket",
+          "price": 55.99,
+          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          },
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "title": "Mens Casual Slim Fit",
+          "price": 15.99,
+          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+          "rating": {
+            "rate": 2.1,
+            "count": 430
+          },
+          "quantity": 1
+        }
+      ],
+      "total": 71.98,
+      "shipping": "pending",
+      "status": "Processing",
+      "date": "2026-07-14T04:25:12.765Z"
+    },
+    {
+      "id": "d9204f58-4e20-482e-8ce8-f6931a529bde",
+      "userId": "ce2871b8-0e80-4401-bf80-d943acae7fe4",
+      "items": [
+        {
+          "id": 3,
+          "title": "Mens Cotton Jacket",
+          "price": 55.99,
+          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          },
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "title": "Mens Casual Premium Slim Fit T-Shirts ",
+          "price": 22.3,
+          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+          "rating": {
+            "rate": 4.1,
+            "count": 259
+          },
+          "quantity": 1
+        },
+        {
+          "id": 1,
+          "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+          "price": 109.95,
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+          "rating": {
+            "rate": 3.9,
+            "count": 120
+          },
+          "quantity": 1
+        }
+      ],
+      "total": 188.24,
+      "shipping": "pending",
+      "status": "Processing",
+      "date": "2026-07-14T04:29:19.650Z"
+    },
+    {
+      "id": "b1f36b52-e83c-4e7b-983b-d49c602243b9",
+      "userId": "ce2871b8-0e80-4401-bf80-d943acae7fe4",
+      "items": [
+        {
+          "id": 3,
+          "title": "Mens Cotton Jacket",
+          "price": 55.99,
+          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          },
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "title": "Mens Casual Slim Fit",
+          "price": 15.99,
+          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+          "rating": {
+            "rate": 2.1,
+            "count": 430
+          },
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "title": "Mens Casual Premium Slim Fit T-Shirts ",
+          "price": 22.3,
+          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+          "rating": {
+            "rate": 4.1,
+            "count": 259
+          },
+          "quantity": 1
+        }
+      ],
+      "total": 94.28,
+      "shipping": "pending",
+      "status": "Processing",
+      "date": "2026-07-14T04:36:10.306Z"
+    },
+    {
+      "id": "910d0726-5000-457e-aeb3-274fc660541d",
+      "userId": "ce2871b8-0e80-4401-bf80-d943acae7fe4",
+      "items": [
+        {
+          "id": 3,
+          "title": "Mens Cotton Jacket",
+          "price": 55.99,
+          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          },
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "title": "Mens Casual Premium Slim Fit T-Shirts ",
+          "price": 22.3,
+          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+          "rating": {
+            "rate": 4.1,
+            "count": 259
+          },
+          "quantity": 3
+        },
+        {
+          "id": 4,
+          "title": "Mens Casual Slim Fit",
+          "price": 15.99,
+          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+          "rating": {
+            "rate": 2.1,
+            "count": 430
+          },
+          "quantity": 1
+        }
+      ],
+      "total": 138.88000000000002,
+      "shipping": "pending",
+      "status": "Processing",
+      "date": "2026-07-14T04:39:45.942Z"
+    },
+    {
+      "id": "380354e5-3c9e-40b6-b406-0e3df28e7447",
+      "userId": "ce2871b8-0e80-4401-bf80-d943acae7fe4",
+      "items": [
+        {
+          "id": 2,
+          "title": "Mens Casual Premium Slim Fit T-Shirts ",
+          "price": 22.3,
+          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+          "rating": {
+            "rate": 4.1,
+            "count": 259
+          },
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "title": "Mens Casual Slim Fit",
+          "price": 15.99,
+          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+          "rating": {
+            "rate": 2.1,
+            "count": 430
+          },
+          "quantity": 14
+        }
+      ],
+      "total": 246.16000000000003,
+      "shipping": "pending",
+      "status": "Processing",
+      "date": "2026-07-14T04:45:19.161Z"
+    }
+  ]
+}
